@@ -6,6 +6,7 @@ view saved Wi-Fi passwords
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+![Language](https://img.shields.io/badge/Python-logoColor=white)
 
 </div>
 
